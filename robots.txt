@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://Raezed.github.io/tech/sitemap.xml
